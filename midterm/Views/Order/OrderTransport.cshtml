@@ -1,0 +1,65 @@
+@using System.Linq
+@using midterm.Models
+@model List<Input>
+@using System.Collections.Generic
+
+<div class="form-group">
+    <form method="POST">
+        <label for="usr"> Choose route:</label>
+        <select name="Operation" value="@Model.Route">
+            <option value="1">Astana-Almaty</option>
+            <option value="2">Almaty-Astana</option>
+            <option value="3">Atyrau-Astana</option>
+            <option value="4">Astana-Atyrau</option>
+            <option value="5">Atyrau-Almaty</option>
+            <option value="6">Almaty-Atyrau</option>
+            <option value="7">Aktobe-Almaty</option>
+            <option value="8">Almaty-Almaty</option>
+            <option value="9">Uralsk-Atyrau</option>
+            <option value="10">Atyrau-Uralsk</option>
+        </select>
+
+        <label for="usr"> Choose category:</label>
+        <select name="Operation" value="@Model.Category">
+            <option value="1">Liquid</option>
+            <option value="2">Amorph</option>
+            <option value="3">Metal</option>
+            <option value="4">Wood</option>
+            <option value="5">Gas</option>
+        </select>
+        <label for="usr">Your price:</label>
+        <input name="Price" type="text" value="@Model.Price" />
+
+        <label for="usr">Choose the date to start the transportation</label>
+        <input name="Date" type="text" value="@Model.Date1" />
+
+        <label for="usr">Will be delivered in</label>
+        <input name="DayAmount" type="text" value="@Model.DayAmount" />
+        <label for="usr">days</label>
+        <br>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th> Route  </th>
+            <th> Category </th>
+            <th> Price </th>
+            <th> Deliver day </th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td> @item.Route </td>
+                <td> @item.Category </td>
+                <td> @item.Price </td>
+                <td> @item.Date2 </td>
+            </tr>
+        }
+    </tbody>
+</table> 

@@ -1,0 +1,6 @@
+Order_id;Info_id;Date_ordered;Date_should_be_ordered;Date_actualy_delivered;Category_id;Done
+1;2;06/04/2017;07/04/2017;07/04/2017;2;true
+2;5;15/08/2017;08/04/2017;09/04/2017;4;true
+3;3;22/03/2017;05/04/2017;05/04/2017;5;true
+4;7;14/02/2018;16/02/2018;14/02/2018;1;false
+5;9;26/11/2017;27/11/2017;26/11/2017;3;false

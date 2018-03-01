@@ -1,0 +1,12 @@
+C:\Users\Saltanat\Desktop\Dotnet\midterm\bin\Debug\netcoreapp2.0\midterm.deps.json
+C:\Users\Saltanat\Desktop\Dotnet\midterm\bin\Debug\netcoreapp2.0\midterm.runtimeconfig.json
+C:\Users\Saltanat\Desktop\Dotnet\midterm\bin\Debug\netcoreapp2.0\midterm.runtimeconfig.dev.json
+C:\Users\Saltanat\Desktop\Dotnet\midterm\bin\Debug\netcoreapp2.0\midterm.dll
+C:\Users\Saltanat\Desktop\Dotnet\midterm\bin\Debug\netcoreapp2.0\midterm.pdb
+C:\Users\Saltanat\Desktop\Dotnet\midterm\bin\Debug\netcoreapp2.0\midLibrary.dll
+C:\Users\Saltanat\Desktop\Dotnet\midterm\bin\Debug\netcoreapp2.0\midLibrary.pdb
+C:\Users\Saltanat\Desktop\Dotnet\midterm\obj\Debug\netcoreapp2.0\midterm.csproj.CoreCompileInputs.cache
+C:\Users\Saltanat\Desktop\Dotnet\midterm\obj\Debug\netcoreapp2.0\midterm.AssemblyInfoInputs.cache
+C:\Users\Saltanat\Desktop\Dotnet\midterm\obj\Debug\netcoreapp2.0\midterm.AssemblyInfo.cs
+C:\Users\Saltanat\Desktop\Dotnet\midterm\obj\Debug\netcoreapp2.0\midterm.dll
+C:\Users\Saltanat\Desktop\Dotnet\midterm\obj\Debug\netcoreapp2.0\midterm.pdb

@@ -1,0 +1,35 @@
+@using System.Linq
+@using midLibrary.Models;
+@model List<Order>
+@using System.Collections.Generic
+@{
+    ViewData["Title"] = "Orders";
+}
+<table class="table">
+    <thead>
+        <tr>
+        <th>Info_id</th>
+        <th>Order_id</th>
+        <th>Date_ordered</th>
+        <th>Date_should_be_delivered</th>
+        <th>Date_actually_delivered</th>
+        <th>Category</th>
+        <th>Status</th>
+        </tr>
+    </thead>
+
+    <tbody>
+    @foreach(var item in Model)
+    {
+        <tr>
+           <td> @item.Info_id </td>
+           <td> @item.Order_id</td>
+           <td> @item.Date_ordered</td>
+           <td> @item.Date_should_be_delivered</td>
+           <td> @item.Date_actually_delivered</td>
+           <td> @item.Category</td>
+           <td> @item.Status</td>
+        </tr>
+    }
+    </tbody>
+</table> 

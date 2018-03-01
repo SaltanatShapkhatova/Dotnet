@@ -1,0 +1,11 @@
+Info_id;Route;Price;Duration
+1;Astana-Almaty;15000;1
+2;Almaty-Astana;15000;1
+3;Atyrau-Astana;30000;2
+4;Astana-Atyrau;30000;2
+5;Atyrau-Almaty;40000;3
+6;Almaty-Atyrau;40000;3
+7;Aktobe-Almaty;35000;2
+8;Almaty-Almaty;35000;2
+9;Uralsk-Atyrau;10000;1
+10;Atyrau-Uralsk;10000;1

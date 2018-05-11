@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Saltanat\\Desktop\\Dotnet\\midLibrary\\midLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\Saltanat\\Desktop\\Dotnet\\Dotnet\\midLibrary\\midLibrary.csproj",
       "projectName": "midLibrary",
-      "projectPath": "C:\\Users\\Saltanat\\Desktop\\Dotnet\\midLibrary\\midLibrary.csproj",
+      "projectPath": "C:\\Users\\Saltanat\\Desktop\\Dotnet\\Dotnet\\midLibrary\\midLibrary.csproj",
       "packagesPath": "C:\\Users\\Saltanat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Saltanat\\Desktop\\Dotnet\\midLibrary\\obj\\",
+      "outputPath": "C:\\Users\\Saltanat\\Desktop\\Dotnet\\Dotnet\\midLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -8,3 +8,13 @@ C:\Users\Saltanat\Desktop\Dotnet\midLibrary\bin\Debug\netcoreapp2.0\midLibrary.d
 C:\Users\Saltanat\Desktop\Dotnet\midLibrary\bin\Debug\netcoreapp2.0\midLibrary.pdb
 C:\Users\Saltanat\Desktop\Dotnet\midLibrary\obj\Debug\netcoreapp2.0\midLibrary.dll
 C:\Users\Saltanat\Desktop\Dotnet\midLibrary\obj\Debug\netcoreapp2.0\midLibrary.pdb
+C:\Users\Saltanat\Desktop\Dotnet\Dotnet\midLibrary\obj\Debug\netcoreapp2.0\midLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Saltanat\Desktop\Dotnet\Dotnet\midLibrary\obj\Debug\netcoreapp2.0\midLibrary.AssemblyInfoInputs.cache
+C:\Users\Saltanat\Desktop\Dotnet\Dotnet\midLibrary\obj\Debug\netcoreapp2.0\midLibrary.AssemblyInfo.cs
+C:\Users\Saltanat\Desktop\Dotnet\Dotnet\midLibrary\obj\Debug\netcoreapp2.0\midLibrary.dll
+C:\Users\Saltanat\Desktop\Dotnet\Dotnet\midLibrary\obj\Debug\netcoreapp2.0\midLibrary.pdb
+C:\Users\Saltanat\Desktop\Dotnet\Dotnet\midLibrary\bin\Debug\netcoreapp2.0\midLibrary.deps.json
+C:\Users\Saltanat\Desktop\Dotnet\Dotnet\midLibrary\bin\Debug\netcoreapp2.0\midLibrary.runtimeconfig.json
+C:\Users\Saltanat\Desktop\Dotnet\Dotnet\midLibrary\bin\Debug\netcoreapp2.0\midLibrary.runtimeconfig.dev.json
+C:\Users\Saltanat\Desktop\Dotnet\Dotnet\midLibrary\bin\Debug\netcoreapp2.0\midLibrary.dll
+C:\Users\Saltanat\Desktop\Dotnet\Dotnet\midLibrary\bin\Debug\netcoreapp2.0\midLibrary.pdb

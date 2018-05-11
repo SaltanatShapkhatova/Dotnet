@@ -35,7 +35,7 @@ namespace midLibrary.Models{
                 Date_ordered = DateTime.ParseExact(itemList[2],"dd/mm/yyyy", null),
                 Date_should_be_delivered = DateTime.ParseExact(itemList[3],"dd/mm/yyyy", null),
                 Date_actually_delivered = DateTime.ParseExact(itemList[4],"dd/mm/yyyy", null),
-                Category = Convert.ToInt32(itemList[5]),
+                Category_id = Convert.ToInt32(itemList[5]),
                 Status = itemList[6]
             };
         }

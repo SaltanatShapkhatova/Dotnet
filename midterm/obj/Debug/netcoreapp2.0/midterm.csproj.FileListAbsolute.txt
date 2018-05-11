@@ -10,3 +10,8 @@ C:\Users\Saltanat\Desktop\Dotnet\midterm\obj\Debug\netcoreapp2.0\midterm.Assembl
 C:\Users\Saltanat\Desktop\Dotnet\midterm\obj\Debug\netcoreapp2.0\midterm.AssemblyInfo.cs
 C:\Users\Saltanat\Desktop\Dotnet\midterm\obj\Debug\netcoreapp2.0\midterm.dll
 C:\Users\Saltanat\Desktop\Dotnet\midterm\obj\Debug\netcoreapp2.0\midterm.pdb
+C:\Users\Saltanat\Desktop\Dotnet\Dotnet\midterm\obj\Debug\netcoreapp2.0\midterm.dll
+C:\Users\Saltanat\Desktop\Dotnet\Dotnet\midterm\obj\Debug\netcoreapp2.0\midterm.pdb
+C:\Users\Saltanat\Desktop\Dotnet\Dotnet\midterm\obj\Debug\netcoreapp2.0\midterm.csproj.CoreCompileInputs.cache
+C:\Users\Saltanat\Desktop\Dotnet\Dotnet\midterm\obj\Debug\netcoreapp2.0\midterm.AssemblyInfoInputs.cache
+C:\Users\Saltanat\Desktop\Dotnet\Dotnet\midterm\obj\Debug\netcoreapp2.0\midterm.AssemblyInfo.cs

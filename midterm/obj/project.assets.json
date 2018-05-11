@@ -12560,11 +12560,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Saltanat\\Desktop\\Dotnet\\midterm\\midterm.csproj",
+      "projectUniqueName": "C:\\Users\\Saltanat\\Desktop\\Dotnet\\Dotnet\\midterm\\midterm.csproj",
       "projectName": "midterm",
-      "projectPath": "C:\\Users\\Saltanat\\Desktop\\Dotnet\\midterm\\midterm.csproj",
+      "projectPath": "C:\\Users\\Saltanat\\Desktop\\Dotnet\\Dotnet\\midterm\\midterm.csproj",
       "packagesPath": "C:\\Users\\Saltanat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Saltanat\\Desktop\\Dotnet\\midterm\\obj\\",
+      "outputPath": "C:\\Users\\Saltanat\\Desktop\\Dotnet\\Dotnet\\midterm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12581,8 +12581,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Saltanat\\Desktop\\Dotnet\\midLibrary\\midLibrary.csproj": {
-              "projectPath": "C:\\Users\\Saltanat\\Desktop\\Dotnet\\midLibrary\\midLibrary.csproj"
+            "C:\\Users\\Saltanat\\Desktop\\Dotnet\\Dotnet\\midLibrary\\midLibrary.csproj": {
+              "projectPath": "C:\\Users\\Saltanat\\Desktop\\Dotnet\\Dotnet\\midLibrary\\midLibrary.csproj"
             }
           }
         }

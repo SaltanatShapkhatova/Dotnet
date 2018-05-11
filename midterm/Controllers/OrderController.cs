@@ -28,10 +28,9 @@ namespace midterm.Controllers
             var res = new List<Input>();
             var val = new Input ()
             {
-                BookId = 1,
-                BookName = "War and Peace",
-                PersonId = 0,
-                BorrowDate = DateTime.Now
+                Route = "Almaty-Astana",
+                CategoryType = "Wood",
+                Date1 = DateTime.Now.ToString("dd/mm/yyyy")
             };
             res.Add(val);
             return View(res);
